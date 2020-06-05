@@ -1,6 +1,6 @@
 # hate_speech_detection_twitter
 ## Summary
-main.py is a script to detect hate speech on twitter using logistic regression with a dataset of labeled tweets to predict hate speech.
+main.py is a script to detect hate speech on twitter using logistic regression with a dataset of labeled tweets.
 
 ## Dataset
 Warning: The dataset contains text that contains hate speech.
