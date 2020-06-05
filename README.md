@@ -11,7 +11,7 @@ Warning: The dataset contains text that contains hate speech.
 * Davidson, Thomas
 * Warmsley, Dana
 * Macy, Michael
-* Weber, Ingmar\
+* Weber, Ingmar
 
 
 **book title:** Proceedings of the 11th Internation AAAI Conference on Weblogs and Social Media\
