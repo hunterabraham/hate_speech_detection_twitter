@@ -7,11 +7,13 @@ Warning: The dataset contains text that contains hate speech.
 
 ### Citation
 **title:** Automated Hate Speech Detection and the Problem of Offensive Language\
-**authors:**\
+**authors:**
 * Davidson, Thomas
 * Warmsley, Dana
 * Macy, Michael
 * Weber, Ingmar\
+
+
 **book title:** Proceedings of the 11th Internation AAAI Conference on Weblogs and Social Media\
 **series:** ICWSM '17\
 **year:** 2017\
