@@ -6,17 +6,17 @@ main.py is a script to detect hate speech on twitter using logistic regression w
 Warning: The dataset contains text that contains hate speech.
 
 ### Citation
-title: Automated Hate Speech Detection and the Problem of Offensive Language\
-authors:\
+**title:** Automated Hate Speech Detection and the Problem of Offensive Language\
+**authors:**\
 * Davidson, Thomas
 * Warmsley, Dana
 * Macy, Michael
-* Weber, Ingmar
-book title: Proceedings of the 11th Internation AAAI Conference on Weblogs and Social Media\
-series: ICWSM '17\
-year: 2017\
-location: Montreal, Canada\
-URL: https://data.world/thomasrdavidson/hate-speech-and-offensive-language
+* Weber, Ingmar\
+**book title:** Proceedings of the 11th Internation AAAI Conference on Weblogs and Social Media\
+**series:** ICWSM '17\
+**year:** 2017\
+**location:** Montreal, Canada\
+**URL:** https://data.world/thomasrdavidson/hate-speech-and-offensive-language
 
 
 
