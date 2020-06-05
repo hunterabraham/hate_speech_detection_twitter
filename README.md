@@ -8,7 +8,7 @@ Warning: The dataset contains text that contains hate speech.
 ### Citation
 title: Automated Hate Speech Detection and the Problem of Offensive Language\
 authors:\
-  Davidson, Thomas\
+\tab  Davidson, Thomas\
   Warmsley, Dana\
   Macy, Michael\
   Weber, Ingmar\
